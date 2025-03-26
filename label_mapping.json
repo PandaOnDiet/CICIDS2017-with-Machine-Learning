@@ -1,0 +1,1 @@
+{"BENIGN": 0, "Bot": 1, "DDoS": 2, "DoS GoldenEye": 3, "DoS Hulk": 4, "DoS Slowhttptest": 5, "DoS slowloris": 6, "FTP-Patator": 7, "Heartbleed": 8, "Infiltration": 9, "PortScan": 10, "SSH-Patator": 11, "Web Attack \u0096 Brute Force": 12, "Web Attack \u0096 Sql Injection": 13, "Web Attack \u0096 XSS": 14}
